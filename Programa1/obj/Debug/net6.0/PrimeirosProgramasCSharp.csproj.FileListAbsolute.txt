@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\PrimeirosProgramasCSharp.exe
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\PrimeirosProgramasCSharp.deps.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\PrimeirosProgramasCSharp.runtimeconfig.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\PrimeirosProgramasCSharp.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\ref\PrimeirosProgramasCSharp.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\bin\Debug\net6.0\PrimeirosProgramasCSharp.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\ref\PrimeirosProgramasCSharp.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\obj\Debug\net6.0\PrimeirosProgramasCSharp.genruntimeconfig.cache
