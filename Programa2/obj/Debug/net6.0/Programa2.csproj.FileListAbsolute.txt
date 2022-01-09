@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\Programa2.exe
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\Programa2.deps.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\Programa2.runtimeconfig.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\Programa2.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\ref\Programa2.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\bin\Debug\net6.0\Programa2.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\ref\Programa2.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa2\obj\Debug\net6.0\Programa2.genruntimeconfig.cache
