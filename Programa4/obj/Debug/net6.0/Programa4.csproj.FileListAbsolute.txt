@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\Programa4.exe
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\Programa4.deps.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\Programa4.runtimeconfig.json
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\Programa4.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\ref\Programa4.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\bin\Debug\net6.0\Programa4.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\ref\Programa4.dll
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.pdb
+C:\Users\Filipe\Documents\Github\PrimeirosProgramasCSharp\Programa4\obj\Debug\net6.0\Programa4.genruntimeconfig.cache
